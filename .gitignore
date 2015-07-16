@@ -1,0 +1,3 @@
+*.jar
+helloworld/worker/target
+*.idea
